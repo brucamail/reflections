@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you need to other people involved in the project to have a clue on what you are going to work on before you have all the code ready. Or when structuring the project for others to work on.
